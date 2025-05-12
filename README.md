@@ -1,5 +1,5 @@
 # TZStudies
-[mytzstudies.com](http://mytzstudies.com/)
+[mytzstudies.com](http://mytzstudies.com/) -> Currently in Maintance to add more Exams!
 currently looking for Tanzanian tutors
 
 Why I Built This Project?
